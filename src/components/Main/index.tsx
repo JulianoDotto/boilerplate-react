@@ -1,7 +1,20 @@
+import * as Style from './styles';
+
 const Main = () => (
-  <main>
-    <h2>React Avançado</h2>
-  </main>
+  <Style.Wrapper>
+    <Style.Logo
+      src="/img/logo.svg"
+      alt="Imagem de um átomo e React Avançado escrito ao lado."
+    />
+    <Style.Title>React Avançado</Style.Title>
+    <Style.Description>
+      TypeScript, ReactJS, NextJS e Styled Components
+    </Style.Description>
+    <Style.Illustration
+      src="/img/hero-illustration.svg"
+      alt="Desenvolvedor de frente para uma tela com código"
+    />
+  </Style.Wrapper>
 );
 
 export default Main;
