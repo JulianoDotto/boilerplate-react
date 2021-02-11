@@ -1,6 +1,5 @@
 Este é um boilerplate criado a partir do curso [React Avançado](https://www.udemy.com/course/react-avancado) e adaptado por [Juliano Dotto](https://github.com/JulianoDotto).
 
-
 ## What is inside?
 
 - [TypeScript](https://www.typescriptlang.org/)
@@ -15,11 +14,10 @@ Este é um boilerplate criado a partir do curso [React Avançado](https://www.ud
 
 ## Getting Started
 
-Primeiro, rode o seguinte comando:
+Para criar um novo projeto a partir deste template você deve rodar os seguintes comandos:
 
 ```bash
-yarn install
-yarn dev
+yarn create next-app -e https://github.com/JulianoDotto/boilerplate-react
 ```
 
 O projeto deve inicializar na porta 3000 [http://localhost:3000](http://localhost:3000)
