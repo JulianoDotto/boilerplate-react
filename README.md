@@ -1,6 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Este é um boilerplate criado a partir do curso [React Avançado](https://www.udemy.com/course/react-avancado) e adaptado por [Juliano Dotto](https://github.com/JulianoDotto).
 
-Este é um boilerplate criado a partir do curso [React Avançado](https://www.udemy.com/course/react-avancado).
 
 ## O que tem dentro?
 
