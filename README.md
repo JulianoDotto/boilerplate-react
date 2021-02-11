@@ -34,3 +34,4 @@ O projeto deve inicializar na porta 3000 [http://localhost:3000](http://localhos
 - `test:watch`: roda o jest em _watch mode_
 - `storybook`: inicializa o storybook na `localhost:6006`
 - `build-storybook`: cria a versão compilada do sotrybook
+- `generate`: cria rapidamente um componente seguindo os padrões do projeto na pasta `src/components`
