@@ -1,7 +1,7 @@
 Este é um boilerplate criado a partir do curso [React Avançado](https://www.udemy.com/course/react-avancado) e adaptado por [Juliano Dotto](https://github.com/JulianoDotto).
 
 
-## O que tem dentro?
+## What is inside?
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
@@ -24,7 +24,7 @@ yarn dev
 
 O projeto deve inicializar na porta 3000 [http://localhost:3000](http://localhost:3000)
 
-## Comandos
+## Commands
 
 - `dev`: inicia a aplicação na `localhost:3000`
 - `build`: cria a versão para produção
