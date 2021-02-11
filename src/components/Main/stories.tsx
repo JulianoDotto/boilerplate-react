@@ -8,6 +8,6 @@ export default {
 
 export const Basic: Story = (args) => <Main {...args} />;
 Basic.args = {
-  title: 'BlaBlaBla',
-  description: 'kkkkkkkkkkk',
+  title: '{title}',
+  description: '{description}',
 };
